@@ -11,7 +11,7 @@ A fun and interactive ping pong game controlled entirely using your hands, built
 
 ## ✨ Features
 
-- Real-time hand tracking with [cvzone's HandTrackingModule](https://github.com/cvzone/cvzone)
+- Real-time hand tracking with cvzone
 - Gesture-based gameplay
 - Score tracking for both players
 - Game Over screen
